@@ -1,7 +1,7 @@
 import logging
 
 from torch.nn import Module
-from zeta.structs import AutoregressiveWrapper
+from zeta.structs import AutoRegressiveWrapper
 from zeta.structs.transformer import (
     Decoder,
     Encoder,
